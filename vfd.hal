@@ -1,0 +1,18 @@
+# Spindle output speed
+net spindle-at-speed    classicladder.0.out-01 <= pyvcp.at-speed
+net spindle-speed-out   classicladder.0.floatout-00 pyvcp.rpm-out
+net spindle-acc         classicladder.0.floatin-01 pyvcp.acc-f
+
+# Communication
+net pyvcp-is-connected classicladder.0.out-00 => pyvcp.is-connected
+
+addf classicladder.0.refresh servo-thread
+loadusr classicladder --modmaster vfd.clp
+net spindle-on classicladder.0.in-00 spindle.0.on
+net spindle-brake classicladder.0.in-01 spindle.0.brake
+net spindle-forward classicladder.0.in-02 spindle.0.forward
+net spindle-reverse classicladder.0.in-03 spindle.0.reverse
+net spindle-cmd-rpm <= spindle.0.speed-out
+net spindle-cmd-rpm-abs <= spindle.0.speed-out-abs
+net spindle-cmd-rps <= spindle.0.speed-out-rps
+net spindle-cmd-rps-abs <= spindle.0.speed-out-rps-abs classicladder.0.floatin-00
