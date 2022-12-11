@@ -4,4 +4,4 @@
 # overwritten when you run stepconf again
 
 #source custom_postgui.hal
-source vfd.hal
+#source vfd.hal

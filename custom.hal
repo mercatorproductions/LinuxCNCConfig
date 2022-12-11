@@ -2,4 +2,4 @@
 # This file will not be overwritten when you run stepconf again
 
 #loadusr -W vfdmod vfd.ini --debug
-loadrt classicladder_rt numS32out=100
+#loadrt classicladder_rt numS32out=100

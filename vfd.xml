@@ -1,7 +1,7 @@
 <pyvcp>
 <labelframe text="config">
     <meter>
-        <halpin>"rpm-out"</halpin>
+        <halpin>"speed-out"</halpin>
         <text>"Spindle"</text>
         <subtext>"rpm"</subtext>
         <size>250</size>
