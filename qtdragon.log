@@ -1,0 +1,7 @@
+2023-01-12 11:57:05,626 - QTvcp.QTVCP.QT_MAKEPINS - WARNING - Preference instance error: Cannot find directory: PrintNC for preference file.
+2023-01-12 11:57:05,654 - QTvcp.QTVCP.WIDGETS.DIALOG_WIDGET - WARNING - Detected hal_manualtoolchange component already loaded
+   Qtvcp recommends to allow use of it's own component by not loading the original. 
+   Qtvcp Integrated toolchange dialog will not show until then
+2023-01-12 11:57:05,793 - QTvcp.QTVCP.QT_ISTAT - WARNING - INI Parsing Error, No USE_PROBE Entry in PROBE, Using: none
+2023-01-12 11:57:05,865 - QTvcp.QTVCP.LIB.QT_NGCGUI.NGCGUI - DEBUG - UI Filename: /usr/lib/python3/dist-packages/qtvcp/lib/qt_ngcgui/ngcgui.ui
+2023-01-12 11:57:05,880 - QTvcp.QTVCP.LIB.QT_NGCGUI.NGCGUI - DEBUG - UI Filename: /usr/lib/python3/dist-packages/qtvcp/lib/qt_ngcgui/ngcgui.ui Didn't find a path NGCGUI files
