@@ -1,6 +1,5 @@
---- QtVCP Screen Started on: Sat, Dec 10 2022 21:32:39 ---
-Sat10 21:32: CRITICAL - no preference file found, enable preferences in screenoptions widget
-Sat10 21:32: Machine OFF
-Sat10 21:32: Hard limits tripped
-Sat10 21:32: Tool 0: No Tool
-Sat10 21:32: Machine ON
+--- QtVCP Screen Started on: Thu, Jan 12 2023 11:57:05 ---
+Thu12 11:57: CRITICAL - no preference file found, enable preferences in screenoptions widget
+Thu12 11:57: Machine OFF
+Thu12 11:57: Hard limits tripped
+Thu12 11:57: Tool 0: No Tool
