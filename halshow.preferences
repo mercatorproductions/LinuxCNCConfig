@@ -5,9 +5,9 @@ placeFrames 0.3
 set ::ratio 0.3
 set ::old_w_leftf 160
 set ::watchlist {
-    pin+vfdmod.rs485.error-count
-    pin+vfdmod.rs485.is-connected
-    pin+vfdmod.rs485.last-error
+    pin+parport.0.pin-11-in
+    sig+probe-in
+    pin+parport.0.pin-11-in-not
 }
 set ::workmode watchhal
 set ::watchInterval 100

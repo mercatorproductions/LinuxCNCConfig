@@ -1,47 +1,35 @@
---- QtVCP Screen Started on: Fri, Jan 13 2023 14:37:03 ---
-Fri13 14:37: CRITICAL - no preference file found, enable preferences in screenoptions widget
-Fri13 14:37: Machine OFF
-Fri13 14:37: Hard limits tripped
-Fri13 14:37: Tool 0: No Tool
-Fri13 14:37: Machine ON
-Fri13 14:37: Cannot jog joint 2 because home_sequence is synchronized (-1)
-
-Fri13 15:19: Loaded program file : /home/user/linuxcnc/nc_files/stool.nc
-Fri13 15:19: Loaded file /home/user/linuxcnc/nc_files/stool.nc
-Fri13 15:22: Started program from line 1
-Fri13 15:23: Run timer stopped at 00:00:00
-Fri13 15:32: Started program from line 1
-Fri13 15:32: Run timer stopped at 00:00:01
-Fri13 15:32: Linear move on line 202 would exceed Z's negative limit
-Fri13 15:32: Linear move on line 202 would exceed joint 3's negative limit
-Fri13 15:32: invalid params in linear command
-Fri13 15:32: Started program from line 1
-Fri13 15:32: Run timer stopped at 00:00:00
-Fri13 15:32: Linear move on line 202 would exceed Z's negative limit
-Fri13 15:32: Linear move on line 202 would exceed joint 3's negative limit
-Fri13 15:32: invalid params in linear command
-Fri13 15:32: Started program from line 1
-Fri13 15:32: Run timer stopped at 00:00:00
-Fri13 15:32: Linear move on line 202 would exceed Z's negative limit
-Fri13 15:32: Linear move on line 202 would exceed joint 3's negative limit
-Fri13 15:32: invalid params in linear command
-Fri13 15:33: Started program from line 1
-Fri13 15:33: Run timer stopped at 00:00:00
-Fri13 15:33: Linear move on line 202 would exceed Z's negative limit
-Fri13 15:33: Linear move on line 202 would exceed joint 3's negative limit
-Fri13 15:33: invalid params in linear command
-Fri13 15:40: Started program from line 1
-Fri13 15:40: Machine OFF
-Fri13 15:40: Run timer stopped at 00:00:22
-Fri13 15:41: Machine ON
-Fri13 15:51: Loaded program file : /home/user/linuxcnc/nc_files/stool 2.nc
-Fri13 15:51: Loaded file /home/user/linuxcnc/nc_files/stool 2.nc
-Fri13 15:52: Machine OFF
-Fri13 15:52: Machine ON
-Fri13 15:54: Started program from line 1
-Fri13 15:55: Run timer stopped at 00:00:32
-Fri13 16:04: Loaded file /home/user/linuxcnc/nc_files/stool 2.nc
-Fri13 16:04: Loaded program file : /home/user/linuxcnc/nc_files/stool 2.nc
-Fri13 16:07: Started program from line 1
-Fri13 16:44: Run timer stopped at 00:36:27
-Fri13 16:45: Machine OFF
+--- QtVCP Screen Started on: Wed, Jan 18 2023 21:59:36 ---
+Wed18 21:59: CRITICAL - no preference file found, enable preferences in screenoptions widget
+Wed18 21:59: Machine OFF
+Wed18 21:59: Hard limits tripped
+Wed18 21:59: Tool 0: No Tool
+Wed18 21:59: Machine ON
+Wed18 22:08: Open File error: Multiple '.' not allowed in Linuxcnc
+Wed18 22:08: Loaded program file : /home/user/linuxcnc/nc_files/3.175mm test 2.nc
+Wed18 22:08: Open File error: Multiple '.' not allowed in Linuxcnc
+Wed18 22:08: Loaded program file : /home/user/linuxcnc/nc_files/3.175mm test 2.nc
+Wed18 22:09: Open File error: Multiple '.' not allowed in Linuxcnc
+Wed18 22:09: Loaded program file : /home/user/linuxcnc/nc_files/3.175mm test.nc
+Wed18 22:09: Loaded program file : /home/user/linuxcnc/nc_files/stool 2.nc
+Wed18 22:09: Loaded file /home/user/linuxcnc/nc_files/stool 2.nc
+Wed18 22:09: Loaded program file : /home/user/linuxcnc/nc_files/test.nc
+Wed18 22:09: Loaded file /home/user/linuxcnc/nc_files/test.nc
+Wed18 22:09: Open File error: Multiple '.' not allowed in Linuxcnc
+Wed18 22:09: Loaded program file : /home/user/linuxcnc/nc_files/Test2.0.nc
+Wed18 22:09: Open File error: Multiple '.' not allowed in Linuxcnc
+Wed18 22:09: Loaded program file : /home/user/linuxcnc/nc_files/3.175mm test 2.nc
+Wed18 22:10: Loaded program file : /home/user/linuxcnc/nc_files/3_175mm test 2.nc
+Wed18 22:10: Loaded file /home/user/linuxcnc/nc_files/3_175mm test 2.nc
+Wed18 22:11: Started program from line 1
+Wed18 22:16: Machine OFF
+Wed18 22:16: Run timer stopped at 00:03:49
+Wed18 22:16: Machine ON
+Wed18 22:30: Loaded program file : /home/user/linuxcnc/nc_files/3_175mm test.nc
+Wed18 22:30: Loaded file /home/user/linuxcnc/nc_files/3_175mm test.nc
+Wed18 22:31: Started program from line 1
+Wed18 22:41: Machine OFF
+Wed18 22:41: Run timer stopped at 00:09:21
+Wed18 22:41: Machine ON
+Wed18 22:42: Machine OFF
+Wed18 22:50: Machine ON
+Wed18 22:53: Machine OFF
